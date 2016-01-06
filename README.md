@@ -13,4 +13,6 @@ Time spent: 5-6 hours total
 
 User stories #1-2 were instructed by the codepath-provided tutorial: https://vimeo.com/102084767.
 
-![alt tag] (https://github.com/lizkhoo/tipCalc-codepath.git)
+![walkthrough](tipCalc-codepath.gif)
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
